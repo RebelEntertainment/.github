@@ -1,6 +1,8 @@
 ## TwinFlame
 
-Welcome to our mobile game development studio! We are passionate about creating immersive and engaging experiences for players worldwide. Our team is driven by creativity, innovation, and a commitment to delivering high-quality games that entertain and inspire.
+Welcome to our mobile game development studio! We are passionate about creating immersive and engaging experiences for players worldwide. 
+
+Finding the best artists, giving them time and space to create, and distributing their creqtion.
 
 ## Core Values
 
